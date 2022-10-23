@@ -1,11 +1,3 @@
-### Java Spring template project
-
-This project is based on a GitLab [Project Template](https://docs.gitlab.com/ee/gitlab-basics/create-project.html).
-
-Improvements can be proposed in the [original project](https://gitlab.com/gitlab-org/project-templates/spring).
-
-### CI/CD with Auto DevOps
-
-This template is compatible with [Auto DevOps](https://docs.gitlab.com/ee/topics/autodevops/).
-
-If Auto DevOps is not already enabled for this project, you can [turn it on](https://docs.gitlab.com/ee/topics/autodevops/#enabling-auto-devops) in the project settings.
+# Meal Stop
+Meal stop is a spring boot application which allows users to order food and provide cancelled food to NGO users.
+This project is developed using SOLID principles, Design patterns and a CI/CD pipeline was implemented to deploy the app to production in Heroku.
